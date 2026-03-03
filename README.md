@@ -24,7 +24,7 @@
     Get a free API key from [ExchangeRate API](https://www.exchangerate-api.com)
 
 5. **Setup your API-key**  
-   `python valuta.py --key {API_KEY}`
+   `python valuta.py setkey {API_KEY}`
 
 ## Usage
 **Run the following command to convert currency:**  
