@@ -18,7 +18,7 @@
    macOS/Linux: `source .venv/bin/activate`
 
 3. **Install dependencies**  
-   pip install -r requirements.txt
+   ```pip install -r requirements.txt```
 
 4. **Get your API-key**  
     Get a free API key from [ExchangeRate API](https://www.exchangerate-api.com)
